@@ -1,4 +1,16 @@
+Yes. For GitHub, the content should be plain Markdown, not wrapped in:
 
+````markdown
+```md
+...
+```
+````
+
+and not inside any special containers.
+
+You should paste content like this directly into your file:
+
+# Java-Exception-Handling-Guide-Part-7.md
 
 ````markdown
 # Java Exception Handling Master Guide
